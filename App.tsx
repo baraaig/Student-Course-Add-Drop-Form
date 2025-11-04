@@ -143,7 +143,7 @@ const App: React.FC = () => {
                     value={studentEmail}
                     onChange={(e) => setStudentEmail(e.target.value)}
                     className="w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-sky-500 focus:border-sky-500 transition"
-                    placeholder="example@jeddah.edu.sa"
+                    placeholder="example@kau.edu.sa"
                     required
                   />
                 </div>
