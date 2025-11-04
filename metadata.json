@@ -1,0 +1,5 @@
+{
+  "name": "Student Course Add/Drop Form",
+  "description": "A web application for students to submit course add/drop requests to their academic advisors. Students can fill in their details, select an advisor, list courses to add and drop, and provide a reason for the request.",
+  "requestFramePermissions": []
+}
